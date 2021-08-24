@@ -1,1 +1,11 @@
 
+/**
+ * This program prints out a standard and military clock side-by-side and prints a menu
+ * under those two clocks informing the user what actions they are allowed to take.
+ * It does this infinitely until a user manually stops the program by entering "4".
+ *
+ * Program working on Clion IDE with Mac OS as of July 17, 1900.
+ * I attempted to run on terminal for testing purposed but was getting errors. It runs without error on IDE though.
+ *
+ *
+ * @author Zachary Huff
